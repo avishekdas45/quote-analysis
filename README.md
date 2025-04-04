@@ -1,7 +1,7 @@
 # Quote Scraper & Data Analysis
 
 ## Overview
-### This project involves web scraping quotes from 'http://quotes.toscrape.com/', followed by data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights.
+### This project involves web scraping quotes from 'Quotes to Scrape', followed by data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights.
 
 
 ## Tools & Libraries
