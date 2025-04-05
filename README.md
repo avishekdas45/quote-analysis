@@ -1,7 +1,7 @@
 # Quote Scraper & Data Analysis
 
 ## Overview
-### This project involves web scraping quotes from 'Quotes to Scrape', followed by data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights.
+This project involves web scraping quotes from 'Quotes to Scrape', followed by data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights.
 
 
 ## Tools & Libraries
@@ -19,7 +19,7 @@
 - **Quote** – The quote text
 - **Tag_Names** – Tags or categories associated with the quote
 
-### Cleaned data is stored in bw_project_cleaned.csv.
+Cleaned data is stored in bw_project_cleaned.csv.
 
 
 ## Data Cleaning
@@ -31,7 +31,7 @@
 
 ## Exploratory Data Analysis (EDA)
 
-### Key insights extracted from the data:
+   Key insights extracted from the data:
 
 - **Top 10 most frequently used tags**
 - **Authors with more than 5 quotes**
@@ -42,7 +42,7 @@
 
 ## Data Visualization
 
-### Several visualizations were created to better understand the data:
+   Several visualizations were created to better understand the data:
 
 - **Bar charts – Showing the most popular tags and top authors**
 - **Pie chart – Illustrating the proportion of top tags**
@@ -57,6 +57,6 @@
 
 
 ## Connect & Feedback
-### If you find this project useful or have any suggestions, feel free to open an issue or submit a pull request!
+   If you find this project useful or have any suggestions, feel free to open an issue or submit a pull request!
 
 
